@@ -5,8 +5,8 @@ import "./globals.css";
 const montserrat = Montserrat({ weight: ["500", "600"], subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "E-commerce Coming Soon",
-  description: "E-commerce Coming Soon",
+  title: "E-Commerce Store Coming Soon",
+  description: "E-Commerce Store Coming Soon",
 };
 
 export default function RootLayout({
